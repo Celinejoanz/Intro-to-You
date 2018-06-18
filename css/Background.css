@@ -1,0 +1,23 @@
+
+body 
+{
+	background-color:black;
+	color:purple;
+	font-family: 'Indie Flower', cursive;
+	
+}
+
+h1,h2,h3,h4,h5,h6
+{
+	font-family: 'Shrikhand', cursive;
+}
+<style>
+a:link {
+    color: blue; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+a:visited {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
